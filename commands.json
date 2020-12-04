@@ -1,0 +1,351 @@
+{
+    "whitelist_commands": [],
+    "user_commands": [],
+    "true": [
+        "true"
+    ],
+    "false": [
+        "false"
+    ],
+    "accept": [
+        "accept"
+    ],
+    "decline": [
+        "decline"
+    ],
+    "me": [
+        "me"
+    ],
+    "public": [
+        "public"
+    ],
+    "friends_allow_friends_of_friends": [
+        "friends_allow_friends_of_friends"
+    ],
+    "friends": [
+        "friends"
+    ],
+    "private_allow_friends_of_friends": [
+        "private_allow_friends_of_friends"
+    ],
+    "private": [
+        "private"
+    ],
+    "outfit": [
+        "outfit"
+    ],
+    "backpack": [
+        "backpack"
+    ],
+    "pickaxe": [
+        "pickaxe"
+    ],
+    "save": [
+        "save"
+    ],
+    "load": [
+        "load"
+    ],
+    "commands": {
+        "test": [
+            "test"
+        ],
+        "exec": [
+            "exec"
+        ],
+        "clear": [
+            "clear"
+        ],
+        "help": [
+            "help"
+        ],
+        "ping": [
+            "ping"
+        ],
+        "prev": [
+            "prev"
+        ],
+        "send_all": [
+            "send_all"
+        ],
+        "restart": [
+            "restart"
+        ],
+        "relogin": [
+            "relogin"
+        ],
+        "reload": [
+            "reload"
+        ],
+        "reload_all": [
+            "reload_all"
+        ],
+        "add_blacklist": [
+            "add_blacklist"
+        ],
+        "remove_blacklist": [
+            "remove_blacklist"
+        ],
+        "add_whitelist": [
+            "add_whitelist"
+        ],
+        "remove_whitelist": [
+            "remove_whitelist"
+        ],
+        "add_invitelist": [
+            "add_invitelist"
+        ],
+        "remove_invitelist": [
+            "remove_invitelist"
+        ],
+        "get_user": [
+            "get_user"
+        ],
+        "get_friend": [
+            "get_friend"
+        ],
+        "get_pending": [
+            "get_pending"
+        ],
+        "get_block": [
+            "get_block"
+        ],
+        "get_member": [
+            "get_member"
+        ],
+        "friend_count": [
+            "friend_count"
+        ],
+        "pending_count": [
+            "pending_count"
+        ],
+        "block_count": [
+            "block_count"
+        ],
+        "friend_list": [
+            "friend_list"
+        ],
+        "pending_list": [
+            "pending_list"
+        ],
+        "block_list": [
+            "block_list"
+        ],
+        "add_friend": [
+            "add_friend"
+        ],
+        "remove_friend": [
+            "remove_friend"
+        ],
+        "remove_friends": [
+            "remove_friends"
+        ],
+        "remove_all_friend": [
+            "remove_all_friend"
+        ],
+        "remove_offline_for": [
+            "remove_offline_for"
+        ],
+        "accept_pending": [
+            "accept_pending"
+        ],
+        "decline_pending": [
+            "decline_pending"
+        ],
+        "incoming_pending": [
+            "incoming_pending"
+        ],
+        "cancel_outgoing_pending": [
+            "cancel_outgoing_pending"
+        ],
+        "block_user": [
+            "block_user"
+        ],
+        "unblock_user": [
+            "unblock_user"
+        ],
+        "unblock_all_user": [
+            "unblock_all_user"
+        ],
+        "join": [
+            "join"
+        ],
+        "join_id": [
+            "join_id"
+        ],
+        "leave": [
+            "leave"
+        ],
+        "invite": [
+            "invite"
+        ],
+        "invite_list_users": [
+            "invite_list_users"
+        ],
+        "message": [
+            "message"
+        ],
+        "party_message": [
+            "party_message"
+        ],
+        "avatar": [
+            "avatar"
+        ],
+        "status": [
+            "status"
+        ],
+        "banner": [
+            "banner"
+        ],
+        "level": [
+            "level"
+        ],
+        "privacy": [
+            "privacy"
+        ],
+        "voice_chat": [
+            "voice_chat"
+        ],
+        "promote": [
+            "promote"
+        ],
+        "kick": [
+            "kick"
+        ],
+        "chatban": [
+            "chatban"
+        ],
+        "hide": [
+            "hide"
+        ],
+        "show": [
+            "show"
+        ],
+        "ready": [
+            "ready"
+        ],
+        "unready": [
+            "unready"
+        ],
+        "sitout": [
+            "sitout"
+        ],
+        "match": [
+            "match"
+        ],
+        "unmatch": [
+            "unmatch"
+        ],
+        "swap": [
+            "swap"
+        ],
+        "stop": [
+            "stop"
+        ],
+        "new_items": [
+            "new_items"
+        ],
+        "shop_items": [
+            "shop_items"
+        ],
+        "enlightenment": [
+            "enlightenment"
+        ],
+        "corruption": [
+            "corruption"
+        ],
+        "all_outfit": [
+            "all_outfit"
+        ],
+        "all_backpack": [
+            "all_backpack"
+        ],
+        "all_pet": [
+            "all_pet"
+        ],
+        "all_pickaxe": [
+            "all_pickaxe"
+        ],
+        "all_emote": [
+            "all_emote"
+        ],
+        "all_emoji": [
+            "all_emoji"
+        ],
+        "all_toy": [
+            "all_toy"
+        ],
+        "cid": [
+            "cid"
+        ],
+        "bid": [
+            "bid"
+        ],
+        "petcarrier": [
+            "petcarrier"
+        ],
+        "pickaxe_id": [
+            "pickaxe_id"
+        ],
+        "eid": [
+            "eid"
+        ],
+        "emoji_id": [
+            "emoji_id"
+        ],
+        "toy_id": [
+            "toy_id"
+        ],
+        "id": [
+            "id"
+        ],
+        "outfit": [
+            "outfit"
+        ],
+        "backpack": [
+            "backpack"
+        ],
+        "pet": [
+            "pet"
+        ],
+        "pickaxe": [
+            "pickaxe"
+        ],
+        "emote": [
+            "emote"
+        ],
+        "emoji": [
+            "emoji"
+        ],
+        "toy": [
+            "toy"
+        ],
+        "item": [
+            "item"
+        ],
+        "playlist_id": [
+            "playlist_id"
+        ],
+        "playlist": [
+            "playlist"
+        ],
+        "set": [
+            "set"
+        ],
+        "set_style": [
+            "set_style"
+        ],
+        "add_style": [
+            "add_style"
+        ],
+        "set_variant": [
+            "set_variant"
+        ],
+        "add_variant": [
+            "add_variant"
+        ],
+        "cosmetic_preset": [
+            "cosmetic_preset"
+        ]
+    }
+}

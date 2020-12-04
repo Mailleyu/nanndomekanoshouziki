@@ -1,0 +1,7 @@
+aiohttp
+colorama
+discord
+git+https://github.com/gomashio1596/fortnitepy
+jaconv
+git+https://github.com/miurahr/pykakasi
+sanic

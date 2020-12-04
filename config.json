@@ -1,0 +1,291 @@
+{
+    "clients": [
+        {
+            "fortnite": {
+                "email": "",
+                "nickname": "",
+                "owner": [],
+                "outfit": "",
+                "outfit_style": [],
+                "ng_outfits": [],
+                "ng_outfit_for": [
+                    "user",
+                    "blacklist"
+                ],
+                "ng_outfit_operation": [
+                    "kick"
+                ],
+                "join_outfit": null,
+                "join_outfit_style": null,
+                "join_outfit_on": "me",
+                "leave_outfit": null,
+                "leave_outfit_style": null,
+                "leave_outfit_on": "me",
+                "outfit_mimic_for": [
+                    "owner"
+                ],
+                "outfit_lock_for": null,
+                "backpack": "",
+                "backpack_style": null,
+                "ng_backpacks": [],
+                "ng_backpack_for": [
+                    "user",
+                    "blacklist"
+                ],
+                "ng_backpack_operation": [
+                    "kick"
+                ],
+                "join_backpack": null,
+                "join_backpack_style": null,
+                "join_backpack_on": "me",
+                "leave_backpack": null,
+                "leave_backpack_style": null,
+                "leave_backpack_on": "me",
+                "backpack_mimic_for": [
+                    "owner"
+                ],
+                "backpack_lock_for": null,
+                "pickaxe": "",
+                "pickaxe_style": null,
+                "ng_pickaxes": [],
+                "ng_pickaxe_for": [
+                    "user",
+                    "blacklist"
+                ],
+                "ng_pickaxe_operation": [
+                    "kick"
+                ],
+                "join_pickaxe": null,
+                "join_pickaxe_style": null,
+                "join_pickaxe_on": "me",
+                "leave_pickaxe": null,
+                "leave_pickaxe_style": null,
+                "leave_pickaxe_on": "me",
+                "pickaxe_mimic_for": [
+                    "owner"
+                ],
+                "pickaxe_lock_for": null,
+                "emote": "",
+                "emote_section": null,
+                "repeat_emote_when_join": true,
+                "ng_emotes": [],
+                "ng_emote_for": [
+                    "user",
+                    "blacklist"
+                ],
+                "ng_emote_operation": [
+                    "kick"
+                ],
+                "join_emote": "",
+                "join_emote_section": null,
+                "join_emote_on": "user",
+                "leave_emote": "",
+                "leave_emote_section": null,
+                "leave_emote_on": "me",
+                "emote_mimic_for": [
+                    "owner"
+                ],
+                "emote_lock_for": null,
+                "leave_delay_for": 1,
+                "refresh_on_reload": true,
+                "party": {
+                    "privacy": "PUBLIC",
+                    "max_size": 16,
+                    "allow_swap": true,
+                    "playlist": "",
+                    "disable_voice_chat": true
+                },
+                "avatar_id": "",
+                "avatar_color": "RED",
+                "banner_id": "",
+                "banner_color": "",
+                "level": 9999,
+                "tier": 9999,
+                "xp_boost": 9999,
+                "friend_xp_boost": 9999,
+                "platform": "XBL",
+                "ng_platforms": [
+                    "WIN"
+                ],
+                "ng_platform_for": [
+                    "user"
+                ],
+                "ng_platform_operation": [
+                    "kick"
+                ],
+                "ng_names": [
+                    {
+                        "matchmethod": "contains",
+                        "word": "Games"
+                    }
+                ],
+                "ng_name_for": [
+                    "user",
+                    "owner"
+                ],
+                "ng_name_operation": [
+                    "kick"
+                ],
+                "status": "test",
+                "accept_invite_for": [
+                    "owner"
+                ],
+                "decline_invite_when": [
+                    "owner",
+                    "whitelist"
+                ],
+                "invite_interval": null,
+                "accept_friend_for": [
+                    "owner"
+                ],
+                "send_friend_request": false,
+                "whisper_enable_for": [
+                    "owner",
+                    "whitelist",
+                    "user"
+                ],
+                "party_chat_enable_for": [
+                    "owner",
+                    "whitelist",
+                    "user"
+                ],
+                "accept_join_for": [
+                    "bot",
+                    "user",
+                    "whitelist",
+                    "owner"
+                ],
+                "join_message": [
+                    "Hello",
+                    "Test"
+                ],
+                "join_message_whisper": [],
+                "random_message": [
+                    [
+                        "hello, {member_display_name}",
+                        "test text"
+                    ],
+                    [
+                        "aba"
+                    ]
+                ],
+                "random_message_whisper": [],
+                "chat_max": 2000,
+                "kick_disconnect": false,
+                "kick_in_match": false,
+                "hide_for": [
+                    "user"
+                ],
+                "blacklist": [],
+                "blacklist_operation": [
+                    "remove",
+                    "kick"
+                ],
+                "blacklist_decline_join": true,
+                "whitelist": [],
+                "invitelist": [],
+                "botlist": [],
+                "botlist_operation": [],
+                "exec": {
+                    "ready": [],
+                    "party_invite": [],
+                    "friend_request": [],
+                    "friend_add": [],
+                    "friend_remove": [],
+                    "party_member_join": [],
+                    "party_member_leave": [],
+                    "party_member_confirm": [],
+                    "party_member_kick": [],
+                    "party_member_promote": [],
+                    "party_update": [],
+                    "party_member_update": [],
+                    "party_member_disconnect": []
+                }
+            },
+            "discord": {
+                "enabled": false,
+                "token": "",
+                "owner": [],
+                "channels": [
+                    "{name}-command-channel",
+                    "bot-command-channel"
+                ],
+                "status": "",
+                "status_type": "playing",
+                "command_enable_for": [
+                    "owner",
+                    "whitelist",
+                    "user"
+                ],
+                "blacklist": [],
+                "whitelist": []
+            },
+            "ng_words": [
+                {
+                    "count": 1,
+                    "matchmethod": "full",
+                    "word": [
+                        "fuck"
+                    ]
+                }
+            ],
+            "ng_word_for": [
+                "user",
+                "blacklist"
+            ],
+            "ng_word_operation": [
+                "chatban"
+            ],
+            "restart_in": 0,
+            "lang": "ja",
+            "search_max": 60,
+            "no_logs": false,
+            "loglevel": "debug",
+            "discord_log": "",
+            "omit_over2000": true,
+            "skip_if_overflow": true,
+            "case_insensitive": true,
+            "convert_kanji": false
+        }
+    ],
+    "discord": {
+        "enabled": false,
+        "token": "",
+        "owner": [],
+        "channels": [
+            "bot-command-channel"
+        ],
+        "status": "",
+        "status_type": "playing",
+        "command_enable_for": [
+            "owner",
+            "whitelist",
+            "user"
+        ],
+        "blacklist": [],
+        "whitelist": []
+    },
+    "web": {
+        "enabled": true,
+        "ip": "localhost",
+        "port": 8000,
+        "password": "",
+        "login_required": false,
+        "command_web": true,
+        "access_log": false
+    },
+    "lang": "ja",
+    "search_lang": "ja",
+    "sub_search_lang": "en",
+    "api": "Fortnite-API",
+    "api_key": "",
+    "discord_log": "",
+    "hide_email": true,
+    "hide_password": true,
+    "hide_token": true,
+    "hide_webhook": true,
+    "no_logs": false,
+    "loglevel": "info",
+    "debug": false,
+    "status": 0
+}
